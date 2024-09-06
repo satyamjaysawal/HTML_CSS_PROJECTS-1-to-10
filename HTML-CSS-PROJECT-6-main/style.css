@@ -1,0 +1,138 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel&family=Allerta&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+ 
+}
+
+body {
+  width: 100%;
+  overflow-y: hidden;
+  background-color: #f4f3f8;
+  
+}
+
+#navbarMonstera {
+  margin-top: 20px;
+  margin-left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+#navMid {
+  display: flex;
+}
+
+#navFirst img {
+  height: 50px;
+  width: 150px;
+}
+
+#navEnd {
+  display: flex;
+  margin-right: 90px;
+}
+
+#navEnd img {
+  padding: 10px 20px;
+  height: 28px;
+  width: 24px;
+}
+#navMid h4 {
+  padding: 10px 30px;
+  font-size: 20px;
+  font-family: "Allerta", sans-serif;
+  cursor: pointer;
+}
+
+.midWholePart11 ul li {
+  display: list-item;
+  list-style: none;
+}
+.heading {
+  margin-top: 85px;
+  margin-left: 75px;
+  font-size: 23px;
+}
+#midWholePart11 ul h1 {
+  display: inline;
+  font-size: 91px;
+  font-family: "Allerta", sans-serif;
+}
+
+.description {
+  width: 512px;
+  margin-top: 5px;
+  margin-left: 75px;
+  font-size: 17px;
+  font-family: "Allerta", sans-serif;
+}
+
+.description p {
+  display: inline;
+  padding-left: 8px;
+}
+
+.midWholePart11 ul li:nth-child(2) {
+  margin-left: 75px;
+  font-size: 21px;
+}
+
+#midWholePart121 h1 {
+  display: inline-block;
+  background-color: #466d50;
+  border-radius: 30px;
+  margin-left: 120px;
+  margin-top: 40px;
+  color: white;
+  padding: 12px 25px;
+  font-size: 24px;
+  font-family: "Allerta", sans-serif;
+}
+
+.midWholePart13Parts {
+  display: flex;
+}
+.all-text {
+  margin-right: 40px;
+  width: 100px;
+  font-family: "Allerta", sans-serif;
+}
+
+.midWholePart13Parts img {
+  height: 52px;
+  width: 65px;
+}
+
+.all-text h4 {
+  font-size: 17px;
+}
+
+.all-text p {
+  width: 137px;
+  font-size: 10px;
+}
+
+#midWholePart13 {
+  display: flex;
+  margin-left: 75px;
+}
+
+.all-text {
+  width: 126px;
+}
+
+.right-photo img {
+  position: absolute;
+  bottom: 10px;
+  right: 0px;
+  height: 523px;
+  width: 422px;
+}
+
+#navMid h4:hover {
+  text-decoration: underline;
+}
