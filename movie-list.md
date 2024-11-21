@@ -28,6 +28,7 @@ avenger :
 
 ![alien-rogue-3840x2160-19813](https://github.com/user-attachments/assets/e1eca3ee-593c-47a8-8cbc-f577a6c65025)
 
+![battlefield-2042-3840x2160-19448](https://github.com/user-attachments/assets/692e940c-3c46-47b9-9a02-82d2dee74ada)
 
 
 ![ghostbusters-frozen-3840x2160-16295](https://github.com/user-attachments/assets/ca2cd65e-e63e-48c6-85c9-0ff9ecc1ea57)
