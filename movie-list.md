@@ -25,6 +25,8 @@ avenger :
 
 ![moana-2-4dx-movie-3840x2160-19763](https://github.com/user-attachments/assets/42079b8d-0e40-43cb-8642-758972f11b14)
 
+![alien-rogue-3840x2160-19813](https://github.com/user-attachments/assets/e1eca3ee-593c-47a8-8cbc-f577a6c65025)
+
 
 
 ![ghostbusters-frozen-3840x2160-16295](https://github.com/user-attachments/assets/ca2cd65e-e63e-48c6-85c9-0ff9ecc1ea57)
