@@ -138,12 +138,37 @@
 
 
 
+# Electronices :
+![image](https://github.com/user-attachments/assets/4a6551e3-e74f-48c4-8b05-527307544e68)
+
+
+
+# Home Appliances:
+
+![image](https://github.com/user-attachments/assets/219f9968-b17a-4e47-8dad-aa698a885619)
+
+
+# Fashion :
+![image](https://github.com/user-attachments/assets/7b0c3c72-7fab-43cb-a569-506136fa15c8)
+
+
+# Beauty :
+![image](https://github.com/user-attachments/assets/12e4bea6-5c3c-4f66-b8c3-a48c90a3888d)
 
 
 
 
+# Sport :
+![image](https://github.com/user-attachments/assets/c643eb4d-0b63-4709-90e8-7bf98754d3d0)
 
 
+# Toys :
+![image](https://github.com/user-attachments/assets/57f01bfb-9054-49d1-9941-67d86723af41)
+
+
+
+# Grocery :
+![image](https://github.com/user-attachments/assets/2009449c-066c-45f6-a52e-22c1a582a6f2)
 
 
 
