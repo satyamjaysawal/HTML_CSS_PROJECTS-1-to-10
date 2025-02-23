@@ -51,33 +51,37 @@ https://github.com/user-attachments/assets/fdb4b3ed-10bb-4302-bc95-3209d1e688e7
 PROJECT 6 : Plant Home Page :
 ![Plant Home Page](https://github.com/user-attachments/assets/01b582e4-8bf0-43a7-8d1a-577152638524)
 
-
-
-
 PROJECT 5 : Crypto Landing Page :
+![Crypto Landing Page](https://github.com/user-attachments/assets/d013409e-11af-41a2-96d1-87f27d5585db)
 
 
 
 PROJECT 4 : Digital Marketing Page :
+![Digital Marketing Page](https://github.com/user-attachments/assets/a921e5c7-5903-4548-819b-689554d054d7)
 
 
 
 
 PROJECT 3 : Law Home Page :
+![Law Home Page](https://github.com/user-attachments/assets/1423ff14-f8a3-4fde-9714-ecd1779d9bb9)
 
 
 
 PROJECT 2 : Food Restaurant Page :
+![Food Restaurant Page](https://github.com/user-attachments/assets/9ff55d20-aee7-4a52-b236-1223cbe8eb4a)
 
 
 
 
 PROJECT 1 : Street Style Landing Page :
+![Street Style Landing Page](https://github.com/user-attachments/assets/19498af8-db54-46d1-bfc3-bc360bfa098e)
+
+
 
 
 
 ****
-
+****
 
 
 
