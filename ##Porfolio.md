@@ -10,5 +10,6 @@ Project 3 Tailwind CSS RODE CLONE :
 https://github.com/user-attachments/assets/ca91ea1c-6fe0-4803-8fdd-a7dbd829c968
 
 
-Project 4 imgage :
-![thumbnail4](https://github.com/user-attachments/assets/ad5e22e5-a5ef-43c4-931c-2cd31a42a6ab)
+Project 4 image :
+![image](https://github.com/user-attachments/assets/06737b05-31b3-4d58-a32a-915aa7330276)
+
