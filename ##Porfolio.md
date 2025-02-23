@@ -31,46 +31,46 @@ PROJECT 11 : Hosting Landing Page :
 
 
 
-PROJECT 10 : Interior Design Page
+PROJECT 10 : Interior Design Page :
 
 
 
-PROJECT 9 : Developer Landing Page
+PROJECT 9 : Developer Landing Page :
 
 
 
-PROJECT 8 : Web Design Page
+PROJECT 8 : Web Design Page :
 
 
 
-PROJECT 7 : Product Home Page
+PROJECT 7 : Product Home Page :
 
 
 
-PROJECT 6 : Plant Home Page
-
-
-
-
-PROJECT 5 : Crypto Landing Page
-
-
-
-PROJECT 4 : Digital Marketing Page
+PROJECT 6 : Plant Home Page :
 
 
 
 
-PROJECT 3 : Law Home Page
+PROJECT 5 : Crypto Landing Page :
 
 
 
-PROJECT 2 : Food Restaurant Page
+PROJECT 4 : Digital Marketing Page :
 
 
 
 
-PROJECT 1 : Street Style Landing Page
+PROJECT 3 : Law Home Page :
+
+
+
+PROJECT 2 : Food Restaurant Page :
+
+
+
+
+PROJECT 1 : Street Style Landing Page :
 
 
 
