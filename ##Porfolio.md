@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/005e9077-626f-4aec-a2a5-45147dfe0a0d
 
 GitHub :
 
-Deployed Link :
+Deployed Link : https://html-css-projects-2-shopify-clone.vercel.app/
 
 
 
@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/50b8dfb9-ea5a-4263-ab74-281862b4658c
 
 GitHub :
 
-Deployed Link :
+Deployed Link : https://html-css-projects-1-paytm-clone.vercel.app/
 
 
 
